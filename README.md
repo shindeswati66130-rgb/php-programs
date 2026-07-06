@@ -11,6 +11,7 @@ Beginner-friendly PHP programs for learning PHP basics and core concepts.
 - Functions
 - Arrays
 - Strings
-  #Author:
-  <br>
-  Swati Shinde
+ <br>
+#Author:
+<br>
+Swati Shinde
