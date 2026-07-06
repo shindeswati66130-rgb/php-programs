@@ -1,6 +1,8 @@
 # php-programs
 Beginner-friendly PHP programs for learning PHP basics and core concepts.
+<br>
 #Topics covered
+<br>
 - Variables
 - Data Types
 - Operators
@@ -10,4 +12,5 @@ Beginner-friendly PHP programs for learning PHP basics and core concepts.
 - Arrays
 - Strings
   #Author:
+  <br>
   Swati Shinde
