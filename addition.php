@@ -1,0 +1,15 @@
+<html>
+  <head>
+    <title>Addition</title>
+  </head>
+  <body>
+    <?php
+$a=10;
+$b=5;
+$c=$a+$b;
+echo"a=".$a."<br>";
+echo"b=".$b."<br>";
+echo"Addition=".$c;
+?>
+  </body>
+</html>
